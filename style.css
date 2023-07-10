@@ -145,25 +145,76 @@
 
 .foot {
     background: #111010;
-    min-height: 50vh;
+    min-height: 10vh;
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
     padding: 260px 640px 120px 640px;
 
 }
 
-.foot-hr{
+.foot-hr {
 
-margin: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
 
 }
 
 #foot-name-half {
     color: #E55473;
 }
-.foot-details{
+
+.foot-details {
 
     margin-top: 20px;
 }
+
+/* get deals section  */
+.form {
+
+    width: 500px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
+
+}
+
+::placeholder {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    padding: 20px 500px 20px 20px;
+
+}
+
+
+.bonus-text1 {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 15px;
+    padding-bottom: 20px;
+
+}
+
+.bonus-head1 {
+    padding-right: 650px;
+    padding-left: 650px;
+    padding-top: 170px;
+    background-image: url("Flower Asset/Rectangle 9.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.bonus1 {
+    padding-bottom: 130px;
+    min-height: 50vh;
+
+}
+
+/* about us styles section */
+
 
 
