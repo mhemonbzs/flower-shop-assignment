@@ -113,17 +113,34 @@
     padding-left: 240px;
     padding-right: 240px;
     justify-content: space-around;
-    text-align: center;
     gap: 2px;
 
 }
 
 
-.bonus-photo {
+.bonus-photo1 {
     width: 310px;
     height: 428px;
     border-radius: 280px 280px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+
+
+}
+
+.bonus-photo2 {
+    width: 310px;
+    height: 428px;
+    border-radius: 280px 280px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+
+
+}
+
+.bonus-photo3 {
+    width: 310px;
+    height: 428px;
+    border-radius: 280px 280px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
 
 
 }
@@ -174,6 +191,7 @@
     height: 64px;
     border-radius: 8px;
     background: #FFF;
+    margin-right: 10px;
 
 }
 
