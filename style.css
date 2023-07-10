@@ -70,4 +70,69 @@
 
 /* bonus styles section */
 
+.bonus {
+    padding-bottom: 130px;
+    min-height: 100vh;
 
+}
+
+
+
+
+.bonus-head {
+    padding-right: 650px;
+    padding-left: 650px;
+    padding-top: 170px;
+
+}
+
+.bonus-heading {
+    margin: 5px;
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+
+}
+
+
+.bonus-text {
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top: 10px;
+
+}
+
+
+.bonus-items {
+    display: flex;
+    padding-top: 50px;
+    padding-left: 240px;
+    padding-right: 240px;
+    justify-content: space-around;
+    text-align: center;
+    gap: 10px;
+
+}
+
+
+.bonus-photo {
+    width: 310px;
+    height: 428px;
+    border-radius: 280px 280px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+
+
+}
+
+.bonus-photo-title {
+
+    color: #272727;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    text-decoration-line: underline;
+}
