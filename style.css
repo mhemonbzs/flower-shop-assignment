@@ -114,7 +114,7 @@
     padding-right: 240px;
     justify-content: space-around;
     text-align: center;
-    gap: 10px;
+    gap: 2px;
 
 }
 
@@ -136,3 +136,34 @@
     font-weight: 700;
     text-decoration-line: underline;
 }
+
+
+
+
+
+/* footer styles section  */
+
+.foot {
+    background: #111010;
+    min-height: 50vh;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    padding: 260px 640px 120px 640px;
+
+}
+
+.foot-hr{
+
+margin: 20px 20px 20px 20px;
+
+}
+
+#foot-name-half {
+    color: #E55473;
+}
+.foot-details{
+
+    margin-top: 20px;
+}
+
+
