@@ -250,3 +250,20 @@
     margin-top: 32px;
     margin-bottom: 32px;
 }
+
+
+/* hot deals styles */
+
+
+.home-text1 {
+
+    max-width: 50%;
+    /* display: flex; */
+
+    /* flex-direction: column; */
+    margin-left: 250px;
+    text-align: center;
+
+
+
+}
