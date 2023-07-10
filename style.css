@@ -148,7 +148,7 @@
     min-height: 10vh;
     color: rgba(255, 255, 255, 0.90);
     text-align: center;
-    padding: 260px 640px 120px 640px;
+    padding: 200px 640px 120px 640px;
 
 }
 
@@ -214,7 +214,20 @@
 
 }
 
-/* about us styles section */
+/* PAYMENT METHOD styles section */
 
+
+.homepay {
+    display: flex;
+    min-height: 80vh;
+    background-color: rgba(229, 84, 115, 0.10);
+    margin-bottom: 50px;
+
+}
+
+.payment{
+
+    
+}
 
 
